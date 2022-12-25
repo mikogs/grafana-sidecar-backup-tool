@@ -1,0 +1,6 @@
+version: "1"
+database: /Users/nicholas/Repositories/github.com/mikogs/grafana/data/grafana.db
+dry_run: no
+run_once: no
+sleep: 10
+workdir: /tmp/
